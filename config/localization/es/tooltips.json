@@ -1,7 +1,7 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS": {
-      "BODY": "Tu dirección de cadena dYdX \"{DYDX_ADDRESS}\" se creó a partir de la firma de la dirección Ethereum \"{EVM_ADDRESS}\"."
+      "BODY": "Tu dirección de cadena jolt \"{DYDX_ADDRESS}\" se creó a partir de la firma de la dirección Ethereum \"{EVM_ADDRESS}\"."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Firma de patrimonio",

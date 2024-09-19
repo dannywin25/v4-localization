@@ -1,7 +1,7 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS": {
-      "BODY": "dYdXチェーンのアドレス「{DYDX_ADDRESS}」は、イーサリアムアドレス「{EVM_ADDRESS}」の署名から作成されました。"
+      "BODY": "joltチェーンのアドレス「{DYDX_ADDRESS}」は、イーサリアムアドレス「{EVM_ADDRESS}」の署名から作成されました。"
     },
     "LEGACY_SIGNING": {
       "TITLE": "レガシー署名",

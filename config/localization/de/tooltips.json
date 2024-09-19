@@ -1,7 +1,7 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS": {
-      "BODY": "Ihre dYdX-Chain-Adresse „{DYDX_ADDRESS}“ wurde aus der Signatur der Ethereum-Adresse „{EVM_ADDRESS}“ erstellt."
+      "BODY": "Ihre jolt-Chain-Adresse „{DYDX_ADDRESS}“ wurde aus der Signatur der Ethereum-Adresse „{EVM_ADDRESS}“ erstellt."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Legacy Signing",

@@ -1,7 +1,7 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS": {
-      "BODY": "您的 dYdX 地址“{DYDX_ADDRESS}”根据以太坊地址“{EVM_ADDRESS}”的签名创建。"
+      "BODY": "您的 jolt 地址“{DYDX_ADDRESS}”根据以太坊地址“{EVM_ADDRESS}”的签名创建。"
     },
     "LEGACY_SIGNING": {
       "TITLE": "传统签名",

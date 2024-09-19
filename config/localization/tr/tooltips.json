@@ -1,7 +1,7 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS": {
-      "BODY": "\"{DYDX_ADDRESS}\" dYdX Zinciri adresiniz \"{EVM_ADDRESS}\" Ethereum adresinin imzasından oluşturulmuştur."
+      "BODY": "\"{DYDX_ADDRESS}\" jolt Zinciri adresiniz \"{EVM_ADDRESS}\" Ethereum adresinin imzasından oluşturulmuştur."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Eski imza",

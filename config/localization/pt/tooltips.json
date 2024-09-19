@@ -1,7 +1,7 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS": {
-      "BODY": "Seu endereço de cadeia dYdX \"{DYDX_ADDRESS}\" foi criado a partir da assinatura do endereço Ethereum \"{EVM_ADDRESS}\"."
+      "BODY": "Seu endereço de cadeia jolt \"{DYDX_ADDRESS}\" foi criado a partir da assinatura do endereço Ethereum \"{EVM_ADDRESS}\"."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Assinatura legada",

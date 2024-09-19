@@ -1,7 +1,7 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS": {
-      "BODY": "귀하의 \"{DYDX_ADDRESS}\" dYdX 체인 주소는 이더리움 주소 \"{EVM_ADDRESS}\"의 서명에서 만들어졌습니다."
+      "BODY": "귀하의 \"{DYDX_ADDRESS}\" jolt 체인 주소는 이더리움 주소 \"{EVM_ADDRESS}\"의 서명에서 만들어졌습니다."
     },
     "LEGACY_SIGNING": {
       "TITLE": "레거시 서명",
